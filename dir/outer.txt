@@ -1,0 +1,1 @@
+outer dir folder text file.However my outer file is updated.Another modifification for testing

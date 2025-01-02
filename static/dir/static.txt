@@ -1,0 +1,1 @@
+This is static file inside internal dir folder.once change.Modified for testing
